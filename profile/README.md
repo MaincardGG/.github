@@ -1,6 +1,7 @@
 # Maincard
 
-🙋‍♀️ This is the platform for amateur gamers to break into the professional scene. 
+🙋‍♀️ This is the platform for amateur gamers to break into the professional scene.
+
 🌈 Join our community on discord
 <!---
 👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
